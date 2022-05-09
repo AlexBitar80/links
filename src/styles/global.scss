@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background:#1B263B;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  max-width: 1260px;
+  margin: 0 auto;
+  color: #DEE2E6;
+  padding: 1rem;
+}
+
+button, a {
+  cursor: pointer;
+}
